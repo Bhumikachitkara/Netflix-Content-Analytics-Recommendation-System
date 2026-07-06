@@ -102,9 +102,3 @@ A premium, dark, Netflix-branded Streamlit dashboard featuring:
 - NLP topic modelling on descriptions (e.g. BERTopic)
 - Content-gap detection model for acquisition strategy
 - Production deployment as a real-time recommendation API
-
----
-
-## 📄 License
-
-This project is released under the MIT License. Dataset sourced from the publicly available Netflix Titles dataset (Kaggle).
