@@ -42,34 +42,6 @@ netflix_project/
 ```
 
 ---
-
-## 🚀 Quick Start
-
-### 1. Clone & install dependencies
-```bash
-git clone <your-repo-url>
-cd netflix_project
-pip install -r requirements.txt
-```
-
-### 2. Run the analysis pipeline (optional — outputs are already included)
-```bash
-python src/01_data_cleaning.py
-python src/02_feature_engineering.py
-python src/03_eda.py
-python src/04_recommendation_system.py
-```
-
-### 3. Open the notebook
-```bash
-jupyter notebook Netflix_Project.ipynb
-```
-
-### 4. Launch the interactive dashboard
-```bash
-streamlit run dashboard.py
-```
-
 ---
 
 ## 🧹 Data Cleaning Highlights
